@@ -6,13 +6,13 @@ quelle für Geographische Lage: https://de.wikipedia.org/wiki/Sri_Lanka#Geograph
  table {
         border-collapse: collapse;
     }
---> Raster für Tabelle
+--> Raster für Tabelle (Chatgpt)
 
 td, th {
     border: 1px solid black;
     padding: 4px 20px;
 }
---> Raster grösse und padding -- abstand von den Wörter
+--> Raster grösse und padding -- abstand von den Wörter (Chatgpt)
 
 #StrandmitPalme {
     width: 700px;
@@ -20,4 +20,4 @@ td, th {
     object-fit: cover;
     object-position: center;
 }
---> damit das bild geschnitten wird anstatt es zu dehnen
+--> damit das bild geschnitten wird anstatt es zu dehnen (Chatgpt)

@@ -1,0 +1,17 @@
+<style>
+    table {
+        border-collapse: collapse;
+    }
+
+td, th {
+    border: 1px solid black;
+    padding: 4px 20px;
+}
+
+#StrandmitPalme {
+    width: 700px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+</style>
