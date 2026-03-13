@@ -1,5 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pAqJXfzR)
 
+05.03 
+Grundgerüst von HTML und angefangen ein paar infos zu sammeln.
+
+12.03 
+Tabelle gemacht. Infos und Bilder hinzugefügt.
+
 quelle für Geschihte:https://travel-eat-love.de/sri-lanka/die-geschichte-sri-lankas/
 quelle für Geographische Lage: https://de.wikipedia.org/wiki/Sri_Lanka#Geographie
 
@@ -21,3 +27,12 @@ td, th {
     object-position: center;
 }
 --> damit das bild geschnitten wird anstatt es zu dehnen (Chatgpt)
+
+13.03
+Javascrip nachgeschaut und ausprobier, aber nicht funktioniert. 
+https://www.w3schools.com/js/js_output.asp
+
+Infos zu Bevölkerung gesammelt.
+Bevölkerung Quellen: 
+https://colombo.embassy.qa/en/sri-lanka/info
+https://ceylon.anilau.com/de
