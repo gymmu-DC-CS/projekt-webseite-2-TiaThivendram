@@ -17,4 +17,11 @@ td, th {
 .textblock {
     max-width: 700px;
     }
-
+    
+.bild-links {
+     float: right;
+     margin-left:0px;
+    width: 200px;
+     display: flex;
+    
+}

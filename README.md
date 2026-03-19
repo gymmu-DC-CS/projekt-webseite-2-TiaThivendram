@@ -36,3 +36,7 @@ Infos zu Bevölkerung gesammelt.
 Bevölkerung Quellen: 
 https://colombo.embassy.qa/en/sri-lanka/info
 https://ceylon.anilau.com/de
+
+19.03
+Infos zur Religion:
+https://en.wikipedia.org/wiki/Religion_in_Sri_Lanka
