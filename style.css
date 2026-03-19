@@ -15,9 +15,17 @@ td, th {
 }
 .textblock {
     max-width: 700px;
+    margin-top: 0;
     }
 
 .Geschicht{
     width: 250px;
 }
 
+h4{
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-bottom: 5px;
+}
