@@ -40,3 +40,5 @@ https://ceylon.anilau.com/de
 19.03
 Infos zur Religion:
 https://en.wikipedia.org/wiki/Religion_in_Sri_Lanka
+HAbe versuch das Bild rechts neben den Text zu machen, aber hat irgndwie nich funktionier, werde vielleicht zu Hause das noch mal anschauen.
+Bildung:https://www.lankahelp.org/blog/wissenswertes-ueber-sri-lanka/schulsystem/
