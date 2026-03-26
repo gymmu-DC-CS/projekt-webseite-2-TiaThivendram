@@ -29,3 +29,35 @@ h4{
 h2{
     margin-bottom: 5px;
 }
+
+#inhalt {
+    position: fixed;
+    left: 0;              
+    top: 0;               
+    width: 200px;
+    height: 100%;        
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-right: 1px solid #ccc;
+}
+
+
+body {
+     margin: 0;
+    margin-left: 250px;
+}
+
+
+#inhalt ul {
+    padding-left: 20px;
+}
+
+
+#inhalt a {
+    text-decoration: none;
+    color: black;
+}
+
+#inhalt a:hover {
+    text-decoration: underline;
+}

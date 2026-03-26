@@ -43,3 +43,19 @@ https://en.wikipedia.org/wiki/Religion_in_Sri_Lanka
 HAbe versuch das Bild rechts neben den Text zu machen, aber hat irgndwie nich funktionier, werde vielleicht zu Hause das noch mal anschauen.
 Bildung:https://www.lankahelp.org/blog/wissenswertes-ueber-sri-lanka/schulsystem/
 Ich habe versuch den abstand zwischen der Überschrift und dem Text zu verkleinern.
+
+26.03
+position: fixed;
+Element bleibt immer an derselben Stelle
+auch wenn mann scrollt bleibt es sichtbar (wie bei Wikipedia)
+
+body {
+    margin: 0;
+    margin-left: 250px;
+}
+Das verschiebt den ganzen Inhalt nach rechts und kein abstand zu oben
+
+#inhalt a:hover {
+    text-decoration: underline;
+}
+Es seht so aus als würde man einen link klicken. Macht linie unter dem Wort wenn man mit der Maus drauf geht.
