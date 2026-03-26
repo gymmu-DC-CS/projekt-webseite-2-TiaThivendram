@@ -59,3 +59,6 @@ Das verschiebt den ganzen Inhalt nach rechts und kein abstand zu oben
     text-decoration: underline;
 }
 Es seht so aus als würde man einen link klicken. Macht linie unter dem Wort wenn man mit der Maus drauf geht.
+Sehenswrdigkeiten Quelle
+https://www.22places.de/sri-lanka-sehenswuerdigkeiten/
+und auch noch von zu Hause
