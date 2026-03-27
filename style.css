@@ -36,9 +36,9 @@ h2{
     top: 0;               
     width: 200px;
     height: 100%;        
-    background-color: #f0f0f0;
+    background-color: #d4eefc;
     padding: 15px;
-    border-right: 1px solid #ccc;
+    border-right: 1px solid #c2e8fc;
 }
 
 
@@ -76,4 +76,7 @@ body {
     width: 35%;
     margin-left: 20px;
     border-radius: 8px;
+}
+body {
+    background-color: #d6f0fddc;
 }
