@@ -63,3 +63,8 @@ Sehenswrdigkeiten Quelle
 https://www.22places.de/sri-lanka-sehenswuerdigkeiten/
 und auch noch von zu Hause
 Habe Bilder neben dem Text hinzugefügt
+
+27.03.26
+Küche Quelle: https://reisehappen.de/essen-in-sri-lanka/
+Ich habe heute den Hintergrund geändert und noch eine Einleitung und über die Küce geschrieben.
+

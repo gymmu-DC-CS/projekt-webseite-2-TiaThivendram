@@ -80,3 +80,29 @@ body {
 body {
     background-color: #d6f0fddc;
 }
+
+.slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+}
+
+.slide {
+  min-width: 100%;
+  scroll-snap-align: center;
+  text-align: center;
+
+}
+
+.slide img {
+  width: 20%;
+  aspect-ratio: 1 / 1;  
+  object-fit: cover;
+
+}
+
+.slide p {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
