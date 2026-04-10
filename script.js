@@ -1,3 +1,6 @@
-function nachOben() {
-  window.scrollTo(0, 0);
-}
+topBtn.onclick = function () {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+};
