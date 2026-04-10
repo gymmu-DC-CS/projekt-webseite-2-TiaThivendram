@@ -70,4 +70,4 @@ Ich habe heute den Hintergrund geändert und noch eine Einleitung und über die 
 Ich habe so ein Slide Bilder Ding mit dem Essen gemacht.
 
 10.04.26
-Ic habe versucht die Bilder beim essen näher zu machen aber hat nicht funktioniert, aber so ist es auch gut. Ich habe den Javascrip hinzugefügt. Wenn man den Pfeil drückt bringt es einem von unten bis wieder nach oben
+Ich habe versucht die Bilder beim essen näher zu machen aber hat nicht funktioniert, aber so ist es auch gut. Ich habe den Javascrip hinzugefügt. Wenn man den Pfeil drückt bringt es einem von unten bis wieder nach oben.

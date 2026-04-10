@@ -41,7 +41,10 @@ h2{
     border-right: 1px solid #c2e8fc;
 }
 
+html {
+    scroll-behavior: smooth;
 
+}
 body {
      margin: 2;
     margin-left: 250px;
