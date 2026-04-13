@@ -71,3 +71,29 @@ Ich habe so ein Slide Bilder Ding mit dem Essen gemacht.
 
 10.04.26
 Ich habe versucht die Bilder beim essen näher zu machen aber hat nicht funktioniert, aber so ist es auch gut. Ich habe den Javascrip hinzugefügt. Wenn man den Pfeil drückt bringt es einem von unten bis wieder nach oben.
+
+JavaScript:
+.onclick
+Bedeutung: Wenn man drauf klickt. (sogenanntes Event)
+
+= function () { ... }
+Bedeutung: Das ist eine Funktion (eine Aktion)
+
+window
+Bedeutung: Das ist das Browser-Fenster
+
+.scrollTo()
+Bedeutung: Scrolle zu einer bestimmten Position.
+
+{ top: 0 }
+Bedeutung:
+top = wie weit nach oben
+0 = ganz oben
+
+behavior: "smooth"
+Bedeutung:
+smooth = sanft / langsam scrollen
+ohne das → würde es sofort springen
+
+Für manche Dinge für HTML, CSS und JavaScript habe ich von KahnAcademy, dieser einten Seite wo wir benutzt haben als KahnAcedemy abgstürzt ist und habe auch sonst wo noch im Internet geschaut. Ich habe auch ein paar YouTube Videos angeschaut.
+
